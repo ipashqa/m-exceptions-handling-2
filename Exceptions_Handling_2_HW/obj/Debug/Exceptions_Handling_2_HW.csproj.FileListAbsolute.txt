@@ -1,0 +1,5 @@
+D:\!learning\!Mentroing D1-D2\hw\Exceptions_Handling_2_HW\Exceptions_Handling_2_HW\bin\Debug\Exceptions_Handling_2_HW.dll
+D:\!learning\!Mentroing D1-D2\hw\Exceptions_Handling_2_HW\Exceptions_Handling_2_HW\bin\Debug\Exceptions_Handling_2_HW.pdb
+D:\!learning\!Mentroing D1-D2\hw\Exceptions_Handling_2_HW\Exceptions_Handling_2_HW\obj\Debug\Exceptions_Handling_2_HW.csprojResolveAssemblyReference.cache
+D:\!learning\!Mentroing D1-D2\hw\Exceptions_Handling_2_HW\Exceptions_Handling_2_HW\obj\Debug\Exceptions_Handling_2_HW.dll
+D:\!learning\!Mentroing D1-D2\hw\Exceptions_Handling_2_HW\Exceptions_Handling_2_HW\obj\Debug\Exceptions_Handling_2_HW.pdb
